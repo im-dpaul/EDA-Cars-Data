@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on Cars Data
+# Auto Analytics: Exploring Car Market Dynamics
 
 This project conducts Exploratory Data Analysis (EDA) on a dataset containing information about cars. It covers various aspects of data preprocessing, visualization, and analysis to derive insights into the characteristics and trends of the cars.
 
